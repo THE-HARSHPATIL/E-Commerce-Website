@@ -1,2 +1,2 @@
-# E-Commerce-Website
- E-Commerce-Website
+Web hosted link: 
+https://willowy-sfogliatella-d27612.netlify.app
